@@ -23,7 +23,7 @@ I'm from Japan.
 ![trophy](https://github-profile-trophy.vercel.app/?username=komoli868aiu-eo&theme=gruvbox)
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=blender,css,discord,git,github,gitlab,gmail,html,instagram,js,powershell,py,raspberrypi,twitter,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,css,discord,git,github,gitlab,html,js,powershell,py,raspberrypi,twitter,windows)](https://skillicons.dev)
 
 ![](https://typograssy.deno.dev/api?scheme=github&text=Hello%20world!)
 
