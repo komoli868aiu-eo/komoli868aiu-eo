@@ -1,5 +1,5 @@
-![](https://komarev.com/ghpvc/?username=komoli868aiu-eo)]
-![](https://img.shields.io/github/followers/komoli868aiu-eo?label=follow&logo=github&style=flat)]
+![](https://komarev.com/ghpvc/?username=komoli868aiu-eo)
+![](https://img.shields.io/github/followers/komoli868aiu-eo?label=follow&logo=github&style=flat)
 
 ## Hi there 👋
 
