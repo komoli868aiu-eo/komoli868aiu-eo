@@ -1,10 +1,11 @@
+![](https://komarev.com/ghpvc/?username=komoli868aiu-eo)]
+![](https://img.shields.io/github/followers/komoli868aiu-eo?label=follow&logo=github&style=flat)]
+
 ## Hi there 👋
 
 # Hi, I'm komoli868aiu-eo
 
-iOS developer based in Japan.
-I work as an iOS engineer.
-I also build iOS apps and web apps as personal projects.
+I'm from Japan.
 
 ## Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KomoriRin868aiu)
