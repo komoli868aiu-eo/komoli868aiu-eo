@@ -20,3 +20,5 @@ I also build iOS apps and web apps as personal projects.
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=komoli868aiu-eo&theme=gruvbox)
+
+![](https://raw.githubusercontent.com/komoli868aiu-eo/komoli868aiu-eo/output/github-contribution-grid-snake.svg)
