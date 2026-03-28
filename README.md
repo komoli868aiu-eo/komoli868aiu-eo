@@ -27,8 +27,4 @@ I'm from Japan.
 
 ![](https://typograssy.deno.dev/api?scheme=github&text=Hello%20world!)
 
-![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ![](https://raw.githubusercontent.com/komoli868aiu-eo/komoli868aiu-eo/output/github-contribution-grid-snake.svg)
