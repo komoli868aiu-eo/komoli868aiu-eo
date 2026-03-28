@@ -31,4 +31,3 @@ I'm from Japan.
 
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-![](https://komarev.com/ghpvc/?username=your-github-username)
