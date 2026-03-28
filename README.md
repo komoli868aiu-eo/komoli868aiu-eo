@@ -26,3 +26,5 @@ I'm from Japan.
 [![My Skills](https://skillicons.dev/icons?i=blender,css,discord,git,github,gitlab,gmail,html,instagram,js,powershell,py,raspberrypi,twitter,windows)](https://skillicons.dev)
 
 ![](https://raw.githubusercontent.com/komoli868aiu-eo/komoli868aiu-eo/output/github-contribution-grid-snake.svg)
+
+![](https://typograssy.deno.dev/api?scheme=github&text=Hello%20world!)
