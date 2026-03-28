@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**komoli868aiu-eo/komoli868aiu-eo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm komoli868aiu-eo
 
-Here are some ideas to get you started:
+iOS developer based in Japan.
+I work as an iOS engineer.
+I also build iOS apps and web apps as personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Socials
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KomoriRin868aiu) [!
+
+## GitHub Stats
+
+<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=komoli868aiu-eo&theme=dracula" /><br/>
+<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=komoli868aiu-eo&theme=dracula&hide_border=false" /><br/>
+<img alt="Top Langs" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=komoli868aiu-eo&layout=compact&show_icons=true&theme=dracula" />
+<img alt="github stats" width="53.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=komoli868aiu-eo&theme=dracula&show_icons=ture&count_private=true" />
