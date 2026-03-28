@@ -7,7 +7,7 @@ I work as an iOS engineer.
 I also build iOS apps and web apps as personal projects.
 
 ## Socials
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KomoriRin868aiu) [!
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KomoriRin868aiu)
 
 ## GitHub Stats
 
