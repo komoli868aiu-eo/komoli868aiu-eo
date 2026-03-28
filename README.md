@@ -11,7 +11,12 @@ I also build iOS apps and web apps as personal projects.
 
 ## GitHub Stats
 
-<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=komoli868aiu-eo&theme=dracula" /><br/>
-<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=komoli868aiu-eo&theme=dracula&hide_border=false" /><br/>
-<img alt="Top Langs" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=komoli868aiu-eo&layout=compact&show_icons=true&theme=dracula" />
-<img alt="github stats" width="53.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=komoli868aiu-eo&theme=dracula&show_icons=ture&count_private=true" />
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=komoli868aiu-eo&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=komoli868aiu-eo&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=komoli868aiu-eo&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=komoli868aiu-eo&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=komoli868aiu-eo&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=komoli868aiu-eo&theme=gruvbox)
